@@ -1,13 +1,13 @@
 {
   "main.css": "/accounts-app/static/css/main.aa67924b.chunk.css",
-  "main.js": "/accounts-app/static/js/main.520afdc1.chunk.js",
-  "main.js.map": "/accounts-app/static/js/main.520afdc1.chunk.js.map",
+  "main.js": "/accounts-app/static/js/main.ecf825cb.chunk.js",
+  "main.js.map": "/accounts-app/static/js/main.ecf825cb.chunk.js.map",
   "runtime~main.js": "/accounts-app/static/js/runtime~main.dcd08200.js",
   "runtime~main.js.map": "/accounts-app/static/js/runtime~main.dcd08200.js.map",
   "static/js/2.9a3acd3a.chunk.js": "/accounts-app/static/js/2.9a3acd3a.chunk.js",
   "static/js/2.9a3acd3a.chunk.js.map": "/accounts-app/static/js/2.9a3acd3a.chunk.js.map",
   "index.html": "/accounts-app/index.html",
-  "precache-manifest.320b111b1cfa49bc48d2a6a9cdce0926.js": "/accounts-app/precache-manifest.320b111b1cfa49bc48d2a6a9cdce0926.js",
+  "precache-manifest.ecd75d7176fc1f1144fba05f9304dd30.js": "/accounts-app/precache-manifest.ecd75d7176fc1f1144fba05f9304dd30.js",
   "service-worker.js": "/accounts-app/service-worker.js",
   "static/css/main.aa67924b.chunk.css.map": "/accounts-app/static/css/main.aa67924b.chunk.css.map"
 }
